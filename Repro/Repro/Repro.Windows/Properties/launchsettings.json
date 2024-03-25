@@ -1,0 +1,10 @@
+{
+	"profiles": {
+		"Repro.Windows (Unpackaged)": {
+			"commandName": "Project"
+		},
+		"Repro.Windows (Package)": {
+			"commandName": "MsixPackage"
+		}
+	}
+}
